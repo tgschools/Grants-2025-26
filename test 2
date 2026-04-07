@@ -1,0 +1,6 @@
+[
+  { "roll": "101", "name": "Aarav Patel", "grade": "A", "status": "Pass" },
+  { "roll": "102", "name": "Priya Sharma", "grade": "B+", "status": "Pass" },
+  { "roll": "103", "name": "Rahul Gupta", "grade": "C", "status": "Pass" },
+  { "roll": "104", "name": "Ananya Singh", "grade": "F", "status": "Fail" }
+]
