@@ -1,6 +1,18 @@
 [
-  { "roll": "101", "name": "Aarav Patel", "grade": "A", "status": "Pass" },
-  { "roll": "102", "name": "Priya Sharma", "grade": "B+", "status": "Pass" },
-  { "roll": "103", "name": "Rahul Gupta", "grade": "C", "status": "Pass" },
-  { "roll": "104", "name": "Ananya Singh", "grade": "F", "status": "Fail" }
+  {
+    "rollNo": "101",
+    "name": "John Doe",
+    "math": 85,
+    "science": 92,
+    "grade": "A",
+    "status": "Pass"
+  },
+  {
+    "rollNo": "102",
+    "name": "Jane Smith",
+    "math": 45,
+    "science": 38,
+    "grade": "D",
+    "status": "Fail"
+  }
 ]
