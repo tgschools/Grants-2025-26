@@ -1,18 +1,4 @@
 [
-  {
-    "rollNo": "101",
-    "name": "John Doe",
-    "math": 85,
-    "science": 92,
-    "grade": "A",
-    "status": "Pass"
-  },
-  {
-    "rollNo": "102",
-    "name": "Jane Smith",
-    "math": 45,
-    "science": 38,
-    "grade": "D",
-    "status": "Fail"
-  }
+  { "roll": "101", "name": "John Doe", "math": 85, "english": 78, "science": 92, "total": 255 },
+  { "roll": "102", "name": "Jane Smith", "math": 90, "english": 88, "science": 94, "total": 272 }
 ]
