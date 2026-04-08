@@ -1,0 +1,14 @@
+[
+  {
+    "rollNo": "101",
+    "name": "Alex Johnson",
+    "grade": "A",
+    "marks": {"Math": 95, "Science": 88, "English": 92}
+  },
+  {
+    "rollNo": "102",
+    "name": "Sam Smith",
+    "grade": "B",
+    "marks": {"Math": 75, "Science": 82, "English": 78}
+  }
+]
