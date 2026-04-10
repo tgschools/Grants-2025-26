@@ -2,7 +2,7 @@
   {
     "Sl No": "1",
     "Mandal-Name": "NAVIPET",
-    "School-Code": "36050100101",
+    "School_Code": "36050100101",
     "School Name": "MPPS  YAMCHA (UM)",
     "1st 50 % School Grant": "0",
     "Badi Bata": "1000",
@@ -30,7 +30,7 @@
   {
     "Sl No": "2",
     "Mandal-Name": "NAVIPET",
-    "School-Code": "36050100102",
+    "School_Code": "36050100102",
     "School Name": "MPUPS  NANDIGAON",
     "1st 50 % School Grant": "12500",
     "Badi Bata": "1000",
